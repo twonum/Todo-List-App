@@ -60,9 +60,6 @@ The application is structured into a `TodoListApp` class which inherits from `tk
    - Save and load tasks with file operations.
    - Mark tasks as complete by selecting and using the "Mark as Complete" button.
 
-**Screenshots:**
-![Todo List App](link-to-screenshot.png) *(Include a screenshot of the app here)*
-
 **Contributing:**
 
 Feel free to fork this repository and submit pull requests. Suggestions and improvements are welcome!
